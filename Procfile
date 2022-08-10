@@ -1,0 +1,1 @@
+KazeDevID: python -m TelethonBot
